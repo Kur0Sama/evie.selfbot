@@ -1,8 +1,8 @@
 {
-  "botToken": "insert your bot token here between the double quotes",
+  "botToken": "mfa.VrHrGo6A6Abk9Ev4DgAK76eQHPSwJPnJqFvZhul9YKXX-W7UaGnhdv_60diXSw1QCfP06B5XcA_JP0sokHBS",
   "webhook": {
     "id": "Enter the Webhook's ID here (the numbers in the webhook URL)",
     "token": "Enter the webhook's token here (the last part of the URL)"
   },
-  "prefix": "/"
+  "prefix": "self."
 }
